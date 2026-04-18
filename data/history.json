@@ -1,0 +1,251 @@
+[
+    {
+        "result": {
+            "recipes": [
+                {
+                    "id": "3265",
+                    "name": "Vegetarian Thai Green Curry With Tofu Recipe",
+                    "ingredients": "Tofu, green curry paste, coconut milk, bell peppers, bamboo shoots, zucchini, red curry paste, fish sauce, palm sugar, kaffir lime leaves, cilantro",
+                    "time": "1 hour total (60 minutes cooking + 10 minutes prep)",
+                    "reason": "Quick to prepare and cook, perfect for a quick vegetarian meal."
+                }
+            ],
+            "tips": [
+                {
+                    "id": "3265",
+                    "name": "Vegetarian Thai Green Curry With Tofu Recipe",
+                    "tips": [
+                        "Reduce the amount of red curry paste to decrease sodium and sugar content.",
+                        "Increase the portion of vegetables and reduce coconut milk for lower fat content.",
+                        "Use low-sodium fish sauce or tamari as a healthier alternative."
+                    ]
+                }
+            ]
+        },
+        "instructions": {
+            "instructions": [
+                {
+                    "id": "1",
+                    "instructions": [
+                        "Peel and finely chop the garlic cloves.",
+                        "Finely dice the ginger root."
+                    ]
+                },
+                {
+                    "id": "2",
+                    "instructions": [
+                        "In a large pan, heat 2 tablespoons of ghee over medium heat."
+                    ]
+                },
+                {
+                    "id": "3",
+                    "instructions": [
+                        "Add the chopped garlic and ginger to the pan.",
+                        "Saut\u00e9 for 1-2 minutes until fragrant."
+                    ]
+                },
+                {
+                    "id": "4",
+                    "instructions": [
+                        "Stir in the chopped onions and saut\u00e9 until they turn golden brown and soft."
+                    ]
+                },
+                {
+                    "id": "5",
+                    "instructions": [
+                        "Add the sliced tomatoes and cook until they break down and form a smooth puree."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "result": {
+            "recipes": [
+                {
+                    "id": 8014,
+                    "name": "Quinoa and Vegetable Saute Recipe",
+                    "ingredients": "quinoa, mixed vegetables (like bell peppers, zucchini), onion, garlic, olive oil, salt, pepper",
+                    "time": "35 minutes total",
+                    "reason": "High protein content from quinoa, quick to prepare, balanced meal"
+                },
+                {
+                    "id": 13036,
+                    "name": "High Protein Broccoli and Dill Stuffed Paratha Recipe",
+                    "ingredients": "whole wheat flour, water, oil for frying, broccoli, paneer (or tofu), dill, spices",
+                    "time": "55 minutes total",
+                    "reason": "Stuffed parathas with high protein broccoli filling, nutritious and satisfying"
+                },
+                {
+                    "id": 360,
+                    "name": "Tofu and Chickpea Patty Recipe (Cutlets)",
+                    "ingredients": "tofu, chickpeas, breadcrumbs, spices, vegetables (optional), oil for frying",
+                    "time": "65 minutes total",
+                    "reason": "Combines high protein sources of tofu and chickpeas in a quick-to-prepare snack"
+                }
+            ],
+            "tips": [
+                {
+                    "id": 8014,
+                    "name": "Quinoa and Vegetable Saute Recipe",
+                    "tips": [
+                        "Increase the vegetable variety to ensure a wide range of nutrients.",
+                        "Use less oil or opt for cooking in water to reduce fat content.",
+                        "Add herbs like parsley or cilantro for additional flavor without extra calories."
+                    ]
+                },
+                {
+                    "id": 13036,
+                    "name": "High Protein Broccoli and Dill Stuffed Paratha Recipe",
+                    "tips": [
+                        "Use whole wheat flour in parathas to keep the carb count at a healthy level.",
+                        "Reduce oil content by using non-stick cooking methods or baking instead of frying.",
+                        "Add some grated carrots or sweet potatoes for extra fiber without increasing calories."
+                    ]
+                },
+                {
+                    "id": 360,
+                    "name": "Tofu and Chickpea Patty Recipe (Cutlets)",
+                    "tips": [
+                        "Replace breadcrumbs with finely ground oats to boost the fiber content.",
+                        "Use vegetable broth instead of water for cooking to add flavor without fat.",
+                        "Experiment with different spices like turmeric or cumin to enhance the taste naturally."
+                    ]
+                }
+            ]
+        },
+        "instructions": {
+            "instructions": [
+                {
+                    "id": "360",
+                    "instructions": [
+                        "Pre-soak chickpeas in water for at least 6 hours.",
+                        "Cook chickpeas in a pressure cooker or on the stovetop until soft.",
+                        "Drain and rinse cooked chickpeas.",
+                        "Add drained chickpeas to a large mixing bowl and mash with a potato masher or fork.",
+                        "Incorporate remaining ingredients and mix well, using your hands to ensure thorough combining.",
+                        "Divide mixture into 10-12 portions and shape into oval or round patties.",
+                        "Slightly flatten the patty dough in your palm.",
+                        "Preheat a skillet and add a thin layer of oil.",
+                        "Cook patties on low to medium heat for several minutes, flipping occasionally until golden brown."
+                    ]
+                },
+                {
+                    "id": "8014",
+                    "instructions": [
+                        "Rinse 2 cups quinoa and cook with 4 cups water and \u00bd teaspoon salt in a rice cooker or covered saucepan for about 15 minutes.",
+                        "Fluff cooked quinoa with a fork and set aside.",
+                        "Heat 1 tablespoon olive oil in a pan, add cumin seeds and cook until they crackle.",
+                        "Add ginger and saut\u00e9 for a few minutes, then add peas and carrots. Cook for another few minutes.",
+                        "Add chopped onions and pepper, saut\u00e9ing until softened.",
+                        "Stir in spice powders and salt; let infuse for a moment before adding cooked quinoa.",
+                        "Gently toss all ingredients together and season with additional salt as needed.",
+                        "Garnish with fresh herbs and olive oil. Serve hot."
+                    ]
+                },
+                {
+                    "id": "13036",
+                    "instructions": [
+                        "Mix flour, water, and other dough ingredients to form a firm, non-sticky dough; cover and rest.",
+                        "Heat a saucepan, add cumin seeds and asafetida, and saut\u00e9 until fragrant.",
+                        "Add chopped vegetables and cook until tender.",
+                        "In another bowl, mix red chilli powder, salt, besan flour, and water to create a paste.",
+                        "Combine the vegetable mixture with the besan paste and cook until well combined and fully cooked.",
+                        "Allow the filling to cool slightly.",
+                        "Divide dough into small balls and roll each into a 3-inch circle.",
+                        "Place a tablespoon of cooled stuffing in the center of each circle, fold over to form dumplings, seal edges, and flatten.",
+                        "Preheat a skillet on medium heat; place parathas, coating lightly with oil or ghee.",
+                        "Cook until golden brown spots appear on both sides, flipping occasionally.",
+                        "Serve hot."
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "result": {
+            "recipes": [
+                {
+                    "id": 11445,
+                    "name": "High Protein Spinach & Soy Bites Recipe",
+                    "ingredients": "Soy flour, spinach, chickpea flour, spices",
+                    "time": "60 minutes total",
+                    "reason": "Quick to prepare and high in protein. Great as a snack or meal."
+                },
+                {
+                    "id": 37164,
+                    "name": "Kabuli Chana Chaat - High Protein Snack of Chickpea Chaat",
+                    "ingredients": "Chickpeas, tamarind chutney, chaat masala, onions, tomatoes",
+                    "time": "20 minutes total",
+                    "reason": "Chickpeas are high in protein and this snack is crunchy with various flavors."
+                },
+                {
+                    "id": 10957,
+                    "name": "Vegan Soya Aloo Curry Recipe",
+                    "ingredients": "Soya chunks, potatoes, tomatoes, spices",
+                    "time": "55 minutes total",
+                    "reason": "Hearty and filling. Uses soya chunks which are high in protein."
+                }
+            ],
+            "tips": [
+                {
+                    "id": "11445",
+                    "name": "High Protein Spinach & Soy Bites Recipe",
+                    "tips": [
+                        "Consider reducing the amount of chickpea flour to lower carbohydrate intake.",
+                        "Incorporate more leafy greens for additional nutrients without increasing calories."
+                    ]
+                },
+                {
+                    "id": "37164",
+                    "name": "Kabuli Chana Chaat - High Protein Snack of Chickpea Chaat",
+                    "tips": [
+                        "Limit the tamarind chutney to manage added sugars.",
+                        "Increase the portion size of vegetables for more fiber and volume."
+                    ]
+                },
+                {
+                    "id": "10957",
+                    "name": "Vegan Soya Aloo Curry Recipe",
+                    "tips": [
+                        "Increase the ratio of soya chunks to potatoes to boost protein content.",
+                        "Use less oil during cooking to reduce fat intake."
+                    ]
+                }
+            ]
+        },
+        "instructions": {
+            "instructions": [
+                {
+                    "id": "",
+                    "instructions": [
+                        "Boil water in a pan, add tomatoes, let sit for a few minutes, then remove the skin and finely chop.",
+                        "Heat oil in a kadhai (wok) over medium heat.",
+                        "Add asafoetida powder and cumin seeds, fry until fragrant.",
+                        "Add grated ginger, chopped garlic, and onions, saut\u00e9 until onions become translucent.",
+                        "Add potatoes, spice powders, and salt, cook for a few minutes.",
+                        "Add the chopped tomatoes and slit green chillies, cook for 2-3 more minutes.",
+                        "Stir in soya chunks, cook for a few minutes, adding water as needed.",
+                        "Serve with whole wheat lachha paratha or achari masala puri."
+                    ]
+                },
+                {
+                    "id": "",
+                    "instructions": [
+                        "Dry roast soya flakes in a skillet over medium heat for three minutes.",
+                        "Allow the roasted flakes to cool, then grind them to a coarse powder in a mixer.",
+                        "Transfer the ground soya flakes to a mixing bowl.",
+                        "In a large bowl, combine all ingredients: ground soya flakes, almond meal, bread crumbs, paneer, red chilli flakes, salt, and pepper.",
+                        "Mix until the dough-like mixture forms.",
+                        "Divide the mixture into equal portions and shape each portion into small balls.",
+                        "Preheat the oven to 200\u00b0C. Grease a baking sheet with a little oil.",
+                        "Bake spinach bites in the preheated oven for about 20 minutes or until outer layer turns crisp and brown.",
+                        "Alternatively, pan fry spinach bites in a paniyaram pan using a little oil.",
+                        "Transfer cooked spinach & soy bites to a serving platter.",
+                        "Serve as an appetizer with other dishes."
+                    ]
+                }
+            ]
+        }
+    }
+]
