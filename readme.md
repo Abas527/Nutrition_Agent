@@ -60,12 +60,16 @@ Final Structured Response (JSON)
 ├── src/
 │   ├── chef_agent.py       # Chef agent (LangGraph)
 │   ├── nutrition_agent.py  # Nutrition agent
-│   ├── retriever.py        # Vector DB logic
+│   ├── rag.py              # Vector DB logic
+│   ├── load_llm.py         # Local LLM logic
+│   ├── state.py            # agent states
+│   ├── preprocess_data.py  # data preprocessing logic
 │
 ├── data/
 │   ├── recipes.json
 │   ├── history.json
 │   ├── queries.json
+|   ├── images.json
 │
 ├── images/                 # Downloaded recipe images
 ├── vector_db/              # Persisted embeddings
